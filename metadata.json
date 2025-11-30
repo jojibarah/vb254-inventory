@@ -1,0 +1,7 @@
+{
+  "name": "Copy of V254 Inventory",
+  "description": "A mobile-first inventory management PWA for Vibrator 254 featuring stock tracking, barcode scanning simulation, and role-based access.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
